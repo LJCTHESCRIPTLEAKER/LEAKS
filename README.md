@@ -1,4 +1,4 @@
--- // tapped.lua | steroids for da hood -- \\
+
 
 local Settings = {
     AimLock = {
